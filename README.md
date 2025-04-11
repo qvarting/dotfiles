@@ -13,6 +13,6 @@ Welcome to my personal dotfiles repo — a curated collection of configs I use t
 Clone and run the setup script:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
+git clone https://github.com/qvarting/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./setup.sh
